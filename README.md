@@ -9,13 +9,12 @@ Pionize widget is a ... .
 
 ## Usage
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 Find the place in your website you want to integrate this widget. 
 Insert this code : 
 
 ```html
     <div class="container">
-        <iframe class="responsive-iframe" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen src="http://localhost:3000/smarthome-finden/widget/{provided-client-id}"></iframe>
+        <iframe class="responsive-iframe" src="http://localhost:3000/smarthome-finden/widget/{provided-client-id}"></iframe>
     </div>
 ```
 
