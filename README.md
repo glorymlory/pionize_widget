@@ -2,6 +2,8 @@
 
 Pionize widget is a ... .
 
+## Deno 
+https://pionize-widget-kbgml.ondigitalocean.app/
 
 ## Prerequisites
 
