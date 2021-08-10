@@ -14,7 +14,7 @@ Insert this code :
 
 ```html
     <div class="container">
-        <iframe class="responsive-iframe" src="http://localhost:3000/smarthome-finden/widget/{provided-client-id}"></iframe>
+        <iframe class="responsive-iframe" src="http://localhost:3000/smarthome-finden/widget/?customerId=999999999"></iframe>
     </div>
 ```
 
