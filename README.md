@@ -45,5 +45,16 @@ Insert this code :
 
 ![swimlanes-62c5f7050bbfe8e9200214e81f2fd41c](https://user-images.githubusercontent.com/55086326/128915276-98f2d7d3-9feb-43c6-b872-b2a21ec45435.png)
 
+title: Widget flow
+
+Widget -> Widget: generate unique session/user id on upload
+Widget -> Backend: send user`s answer with cutstomer id
+note:
+_customer id_ - token of a blog/website
+
+Widget --> Frontend: redirect user to website with session/user id
+
+Frontend -> Backend: login/register with session/user id
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
