@@ -18,9 +18,7 @@ Insert this code :
     <div class="container">
         <iframe class="responsive-iframe" src="https://smarthome.pionize.de/smarthome-finden/widget/999999999"></iframe>
     </div>
-```
 
-``` css
 <style>
 .container {
   position: relative;
