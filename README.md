@@ -21,6 +21,7 @@ Insert this code :
 ```
 
 ``` css
+<style>
 .container {
   position: relative;
   overflow: hidden;
@@ -39,6 +40,7 @@ Insert this code :
   height: 100%;
   border: 0;
 }
+</style>
 ```
 
 ## Flow 
