@@ -16,7 +16,7 @@ Insert this code :
 
 ```html
     <div class="container">
-        <iframe class="responsive-iframe" src="http://smarthome.pionize.de/smarthome-finden/widget/999999999"></iframe>
+        <iframe class="responsive-iframe" src="https://smarthome.pionize.de/smarthome-finden/widget/999999999"></iframe>
     </div>
 ```
 
